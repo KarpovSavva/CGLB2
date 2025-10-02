@@ -1,7 +1,7 @@
 #include <windows.h>
 #include <gl/gl.h>
-#include <../lb2/lib/stb-master/stb_image.h>
-#include <../lb2/lib/stb-master/stb_easy_font.h>
+#include <../CGLAB2/lib/stb-master/stb_image.h>
+#include <../CGLAB2/lib/stb-master/stb_easy_font.h>
 
 LRESULT CALLBACK WindowProc(HWND, UINT, WPARAM, LPARAM);
 void EnableOpenGL(HWND hwnd, HDC*, HGLRC*);
